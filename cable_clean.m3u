@@ -254,6 +254,16 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 
 **********Adult**********
+#EXTINF:-1,MyCamTV XXX Vod #1
+https://vod.mycamtv.net/1.m3u8
+#EXTINF:-1,MyCamTV XXX Vod #2
+https://vod.mycamtv.net/2.m3u8
+#EXTINF:-1,MyCamTV XXX Vod #3
+https://vod.mycamtv.net/3.m3u8
+#EXTINF:-1,MyCamTV XXX Vod #4
+https://vod.mycamtv.net/4.m3u8
+#EXTINF:-1,MyCamTV XXX Vod #5
+https://vod.mycamtv.net/5.m3u8
 #EXTINF:0,MyCamTV Arab Girls
 http://live.mycamtv.com/arab.m3u8
 #EXTINF:0,MyCamTV Ebony Girls
