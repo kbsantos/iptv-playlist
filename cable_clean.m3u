@@ -251,16 +251,3 @@ https://stream.zeno.fm/69b1kf7q0y5tv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Music",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
-
-#EXTINF:-1 tvg-ID="" tvg-name="HBO"  group-title="CINEMA PREMIUM",HBO
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/87.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO 2"  group-title="CINEMA PREMIUM",HBO 2
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/88.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO FAMILY"  group-title="CINEMA PREMIUM",HBO FAMILY
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/89.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO PLUS"  group-title="CINEMA PREMIUM",HBO PLUS
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/90.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HISTORY 2"  group-title="CULTURA",HISTORY 2
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/91.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HISTORY CHANNEL"  group-title="CULTURA",HISTORY CHANNEL
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/92.ts
