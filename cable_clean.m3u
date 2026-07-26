@@ -28,30 +28,6 @@ http://136.239.173.26:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6666006923928981117_darknow/AGG_SOURCE/600/208?proposition=NBCUOTT&territory=US" group-title="Movies", MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",News 12 Weather & Traffic
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",RBC TV
-http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",Top Latino
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",TV Noticias
-http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",ENTRETENIMIENTO:Digital TV (Peru)
-http://uvodscp-lh.akamaihd.net:80/i/ped001rtmp_1@460473/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",NOTICIAS:TV Noticias 7.3 (Peru)
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE002&mode=12
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",Canal BHtv
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",ENTRETENIMIENTO:Eco TV (Panama)
-http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-480p/chunks.m3u8
-
 
 **********Converge-TV**********
 #EXTINF:-1 group-logo="https://i.imgur.com/c7CDrvS.png"
