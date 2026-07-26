@@ -28,6 +28,17 @@ http://136.239.173.26:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6666006923928981117_darknow/AGG_SOURCE/600/208?proposition=NBCUOTT&territory=US" group-title="Movies", MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="hits-hd" tvg-logo="https://i.imgur.com/CxqHKUO.png" group-title="Movies",Hits HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="hits-now" tvg-logo="https://i.imgur.com/Ck0ad9b.png" group-title="Movies",Hits Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.mpd
+
+
 **********Converge-TV**********
 #EXTINF:-1 group-logo="https://i.imgur.com/c7CDrvS.png"
 
